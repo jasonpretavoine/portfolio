@@ -1,0 +1,19 @@
+.center-navbar {
+  display: flex !important;
+  justify-content: center !important;
+  flex-direction: column;
+}
+
+.center-navbar .navbar-collapse {
+  justify-content: center;
+}
+
+.navbar .nav {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.navbar .nav-item {
+  margin: 0 10px;
+}
