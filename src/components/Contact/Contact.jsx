@@ -81,7 +81,7 @@ const Contact = () => {
             />
             <span className='not-done'>{recaptchaError && "Merci de valider le captcha"}</span>
             <Button type="submit" className="button" disabled={done}>Envoyer</Button>
-            <span className='done'>{done && "Merci de m'avoir contacté. J'ai bien reçu votre message. Si vous testez cette fonctionnalité, je confirme qu'elle fonctionne parfaitement. Si vous avez une question sérieuse, je vous répondrai. Vous pouvez également me contacter sur LinkedIn."}</span>
+            <span className='done'>{done && "Merci de m'avoir contacté. J'ai bien reçu votre message. Vous pouvez également me contacter sur LinkedIn."}</span>
           </form>
         </Col>
       </Row>
