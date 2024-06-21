@@ -21,7 +21,7 @@ const Home = () => {
               </h1>
 
               <h1 className="heading-name">
-                Je suis
+                Mon nom est
                 <strong className="main-name"> Jason PRETAVOINE</strong>
               </h1>
 
